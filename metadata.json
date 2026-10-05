@@ -1,0 +1,6 @@
+{
+  "name": "NexusCNPJ — Consulta Empresarial e Geolocalização",
+  "description": "Plataforma SaaS corporativa para consulta oficial de CNPJ, mapeamento de estabelecimentos próximos via Google Maps Platform, solicitações de atualização auditadas e gestão multi-nível (Administrador e Funcionário).",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
